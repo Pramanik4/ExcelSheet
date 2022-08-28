@@ -39,5 +39,14 @@
 
 ![image](https://user-images.githubusercontent.com/75212387/187059340-c8ff7db2-0a2a-423d-b0aa-95cacf4cbdf4.png)
 
+## 11) =CONCATE()
+
+![image](https://user-images.githubusercontent.com/75212387/187064135-91348291-d671-40e4-aa3c-be611ebabf99.png)
+
+## 12) =CONCATENATE()
+
+![image](https://user-images.githubusercontent.com/75212387/187064248-5368ad64-4609-4d9e-9b9b-1c2bc17cf0e7.png)
+
+## 13) 
 
 
