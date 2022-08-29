@@ -47,6 +47,15 @@
 
 ![image](https://user-images.githubusercontent.com/75212387/187064248-5368ad64-4609-4d9e-9b9b-1c2bc17cf0e7.png)
 
-## 13) 
+## 13) =VLOOKUP
+
+![image](https://user-images.githubusercontent.com/75212387/187247286-853800b2-f519-4a8e-b6b3-a1855a22bb2b.png)
+![image](https://user-images.githubusercontent.com/75212387/187247389-27396f3d-9919-4c75-bc71-d7b7da7713db.png)
+
+
+## 14) 
+
+
+
 
 
